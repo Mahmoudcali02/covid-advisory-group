@@ -8,6 +8,6 @@ A complete responsive covid-19 advisory website design using html, css and javas
 * JavaScript / jQuery 
 
 # Links
-Repo Link:
+Repo Link: https://github.com/Mahmoudcali02/covid-advisory-group
 
 Deployed Link: 
